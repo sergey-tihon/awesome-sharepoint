@@ -20,6 +20,7 @@ Thanks to all [contributors](https://github.com/sergey-tihon/awesome-sharepoint/
 
 * [Camlex.Net](http://camlex.codeplex.com/) - Simplifies creating of CAML queries for Windows SharePoint Services by using expression trees.
 * [SPServices](http://spservices.codeplex.com/) -  A jQuery library which abstracts SharePoint's Web Services and makes them easier to use.
+* [SharePoint Common](https://github.com/gdbd/sharepointcommon) -  SharepointCommon is a framework for Microsoft SharePoint© 2010 ,2013 and 2016 It allows to map list items to simple hand-writen POCO classes and perform actions by manipulating with entities.
 
 ## Productivity
 
